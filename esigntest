@@ -1,0 +1,17 @@
+{
+	"META": {
+		"repoName": "t.me/ttscarl",
+		"repoIcon": "https://github.com/IlIXXIlI/downloadtt/blob/main/photo_2022-11-23_11-10-08.jpg?raw=true"
+	},
+	"Tweaked": [{
+		"name": "Tik Tok LRD",
+		"version": "28.4.0 + LRD2.1",
+		"down": "https://edef6.pcloud.com/cBZEI8PqYZo25DwDZCrb8ZZGVCbo7Z2ZZEcRZkZv2jHzZXVZCVZBkZSVZH5ZaVZqZ5VZlVZz0Z57Z1kZt0Z5kZagXSZHEMJiNhkB284QNx9T7uEOp9K9O3k/TikTok_28.4.0_LRD2.1_%40ttskarl.ipa",
+		"category": "TikTok",
+		"description": "Приложение TikTok с встроенной модификацией LRD.",
+		"icon": "https://github.com/IlIXXIlI/ICON/blob/main/41.png?raw=true",
+		"banner": "https://github.com/IlIXXIlI/ICON/blob/main/Banner.png?raw=true",
+		"bundleID": "com.zhiliaoapp.musically",
+		"appstore": "com.zhiliaoapp.musically"
+       }]
+ }
