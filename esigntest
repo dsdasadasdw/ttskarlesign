@@ -1,20 +1,3 @@
 {
-    "name": "t.me/ttskarl",
-    "identifier": " ",
-    "sourceURL": "t.me/ttskarl",
-    "apps": [
-        {
-            "name": "Tik Tok LRD",
-            "version": "28.4.0 + LRD2.1",
-            "versionDate": "2023-02-28T19:47:00+03:00",
-            "versionDescription": " ",
-            "downloadURL": "https://edef6.pcloud.com/cBZEI8PqYZo25DwDZCrb8ZZGVCbo7Z2ZZEcRZkZv2jHzZXVZCVZBkZSVZH5ZaVZqZ5VZlVZz0Z57Z1kZt0Z5kZagXSZHEMJiNhkB284QNx9T7uEOp9K9O3k/TikTok_28.4.0_LRD2.1_%40ttskarl.ipa",
-            "localizedDescription": "TikTok",
-            "iconURL": "https://github.com/IlIXXIlI/ICON/blob/main/41.png?raw=true",
-            "tintColor": "018084",
-            "isLanZouCloud": 0,
-            "size": 154140672,
-            "type": 1      
-        }
-    ]
+"appstore_v1": "JyfWjXTkgyVhzcFeJb6jqN7MTUHuKsNpU76bd1zZ9cz2TWNm7YSuywpV+KYYqTBmGeOMp6USc9sF1usXQ1sTvhUQz52BHPaScqygwnSqTxzUOb3TogxKTKjO78uXPm5BCeURkIiS++3ZuCmUIsKb/Xl2ni8ntoZFVHw49DXTmN+a17pfEeHx+YifMY7Xwj+dcUqXpBJzYSoji/snbrsUpmDJAqvMTbyAfdml+lQCm+HaDYwkVTUaovI93cCPPdDBX25j7ghUwU5+26gB0SVPCwjEq7jwb8hh0uV6dvVtX553YPVi56PTf8x25mWFDiyiH8zNCMm5/sAB+3itJcAtVIHH/6k0Wy8nAj/xm0ojnK2LBZBxMDOkWJVKhwYXYM2rH5vHylyqv54vrr2LuwX/fj6vxzFBvh8y1FMRU+KH9srctzhml+AGfRIXAcFkzC/dSQunbUUaro91Ku7sccHsEJ16A+VSf5xMyxm1+HhZ6u3YhTnyw8HOnbDCEG2E1kbD1dXucBnVsVjeNFwFzEU3F3hRVl/WHLu7NEh6xblWAwt37IakorUw9hqd1l04UaYGczTHRvMg24j5nqoor6ELE2EqkuKkjhTRQ3pOE3evJU/3gODi06LpomI+QpTPPwFXoYicSNFQ3PIJPsLNOET18QWX48B08kcQKxctG9PIGAaK1v7Tk3rRIUcO3YzGdUJlmvR035IyXbr0EZVyWi9/Z3m3fTPm3RrR6Ts43EkVqVUTqWdKeOsjEvegIvrLwXYNopwEoozZikGF3UhylxKA/eIxpZW2KtY7wVmGJu0jM6f8BZ6J/j+k/iBJC+GoKtaIV9bQ2qXSwSHsY2cQXnxEOCm5SkHG6595awlwwEH8mZ5/GEOvjB1R20Np4uL8d9CKqZTOid8FwaqXzBc5St1b+af+/s76Hs2OFYqGUJGjfCEcGQR/wah8YanLxkBMcCkTbZXRL1by8jLN4nKRDuHrjgYW3vvJ1OZ3DhSHRuBhq7fqigIkh1FdYKSEpCH77TufMkVha2TukS4iCiMuoGwo7SQ+RClOpAeEHKjOY9LDzWoRVMPI/W7JAb1Cw4C251gMnHvCs9uogjV+EYri+HhYTgiI0TcXd4RrUEhbLnv9aDoRHHDohYmfyPOvuoQA2uatQt9+eCwUSsqwkPibotSsQs5wnwQlzEPTW1A7snx5/rX3poeeDnfFJA6n8EeCCDkGWb6HCLc7YwXD9k+jrdxLIM/xeUvn1GtJT/MkEl7sX4Cw97yEredcByF2X/yBhLa8r9uOnaSvlDSjYYm0tpUanLQlGjKibronhUwcODP8uHDxvTGQuS8lb6MFh33qb0jFUEUHZd9S92jdGF5YWqDmrA=="
 }
